@@ -12,6 +12,7 @@ import com.example.Bookstore.model.BookRepository;
 import com.example.Bookstore.model.Category;
 import com.example.Bookstore.model.CategoryRepository;
 
+
 @SpringBootApplication
 public class BookstoreApplication {
 	private static final Logger log = LoggerFactory.getLogger(BookstoreApplication.class);
